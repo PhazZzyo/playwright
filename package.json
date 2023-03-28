@@ -1,0 +1,14 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Playwright demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}
